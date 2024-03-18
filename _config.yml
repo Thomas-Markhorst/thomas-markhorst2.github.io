@@ -83,6 +83,7 @@ footer:
       url: "https://scholar.google.com/citations?user=7aXfjw4AAAAJ&hl=en"
 
 defaults:
+  classes: wide
   # _posts
   - scope:
       path: ""
