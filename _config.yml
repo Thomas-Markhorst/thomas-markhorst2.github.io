@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Thomas Markhorst"
-  avatar : "/assets/images/IMG_9891.jpeg.jpg"
+  avatar : "/assets/images/IMG_9891.jpeg"
   bio    : "PhD Candidate Computer Vision @ Delft University of Technology"
   links:
     - label: "TU Delft"
@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thomas-markhorst"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fab fa-fw fa-book"
       url: "https://scholar.google.com/citations?user=7aXfjw4AAAAJ&hl=en"
 
 footer:
@@ -79,7 +79,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/thomasmarkhorst/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fab fa-fw fa-book"
       url: "https://scholar.google.com/citations?user=7aXfjw4AAAAJ&hl=en"
 
 defaults:
