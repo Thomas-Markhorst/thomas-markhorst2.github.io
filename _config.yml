@@ -70,7 +70,7 @@ author:
       icon: "fa fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=7aXfjw4AAAAJ&hl=en"
     - label: "GitHub"
-      icon: "fa fa-fw fa-graduation-cap"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/thomas-markhorst"
 
 footer:
@@ -79,7 +79,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/thomasmarkhorst/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-book"
+      icon: "fa fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=7aXfjw4AAAAJ&hl=en"
 
 defaults:
