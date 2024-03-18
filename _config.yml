@@ -83,13 +83,13 @@ footer:
       url: "https://scholar.google.com/citations?user=7aXfjw4AAAAJ&hl=en"
 
 defaults:
-  classes: wide
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -101,6 +101,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
 
 category_archive:
