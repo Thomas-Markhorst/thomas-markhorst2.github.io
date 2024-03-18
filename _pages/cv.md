@@ -1,6 +1,18 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /cv/
+title: "CV"
 ---
 
-I am a PhD candidate working with Dr. Xucong Zhang and Dr. Jan van Gemert at the Computer Vision Lab of Delft University of Technology. I obtained my Master of Science (cum laude) in Computer Science at Delft University of Technology, specializing in Artificial Intelligence. My research interests are centered around applied computer vision, currently focusing on using deep learning techniques for estimating various properties of human bodies.
+On this page you will find an overview of my academic background and professional experience. Click for my resume in pdf format.
+
+Education
+* PhD candidate at Computer Vision Lab, Delft University of Technology, (current)
+* MSc in Computer Science - Artificial Intelligence (cum laude), Delft University of Technology, 2023
+* BSc in Computer Science (cum laude), Delft University of Technology, 2018
+
+Professional experience
+* Computer Vision Research Intern, Bosch, Dec. 2022 - Aug. 2023
+* Computer Vision Research Intern, BMW Group, Aug. 2022 - Nov. 2022
+* Computer Vision Engineer, Krill Robotics, Feb. 2019 - Sept. 2021
+* Software Engineering Intern, TNO, Feb. 2017 - Mar. 2018
+
