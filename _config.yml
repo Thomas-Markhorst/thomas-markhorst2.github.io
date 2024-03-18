@@ -70,7 +70,7 @@ author:
       icon: "fa fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=7aXfjw4AAAAJ&hl=en"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-fw fa-graduation-cap"
       url: "https://github.com/thomas-markhorst"
 
 footer:
@@ -84,17 +84,16 @@ footer:
 
 defaults:
   # _posts
-  
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
